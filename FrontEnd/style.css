@@ -1,0 +1,33 @@
+/* frontend/css/styles.css */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 16px !important;
+  border: none;
+}
+
+.icon {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display-6 {
+  font-size: 1.8rem;
+}
+
+.list-group-item {
+  border-radius: 10px !important;
+  margin-bottom: 8px;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+}
